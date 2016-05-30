@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Gist - borba uživo",
+  "title": "Code Combat - borba uživo",
   "duration": "3:58"
 }
 ---
